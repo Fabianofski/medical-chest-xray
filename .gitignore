@@ -1,4 +1,5 @@
 env
 images
 preprocessed
-preprocessed
+npz_files
+saved_models
