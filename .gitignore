@@ -1,5 +1,6 @@
 env
 images
 preprocessed
+clahe
 npz_files
 saved_models
