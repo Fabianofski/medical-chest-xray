@@ -47,4 +47,4 @@ To analyze the models' predictions and understand their decision-making process,
 
 ## License
 
-See [License.md](License.md)
+See [License](LICENSE)
